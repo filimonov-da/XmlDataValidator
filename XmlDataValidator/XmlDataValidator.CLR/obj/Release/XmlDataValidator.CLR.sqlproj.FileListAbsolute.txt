@@ -1,0 +1,7 @@
+D:\Solutions\fgis_usmt\XmlDataValidator\XmlDataValidator.CLR\bin\Release\XmlDataValidator.CLR.dacpac
+D:\Solutions\fgis_usmt\XmlDataValidator\XmlDataValidator.CLR\bin\Release\XmlDataValidator.CLR.dll
+D:\Solutions\fgis_usmt\XmlDataValidator\XmlDataValidator.CLR\obj\Release\Model.xml
+D:\Solutions\fgis_usmt\XmlDataValidator\XmlDataValidator.CLR\obj\Release\refactor.xml
+D:\Solutions\fgis_usmt\XmlDataValidator\XmlDataValidator.CLR\obj\Release\postdeploy.sql
+D:\Solutions\fgis_usmt\XmlDataValidator\XmlDataValidator.CLR\obj\Release\predeploy.sql
+D:\Solutions\fgis_usmt\XmlDataValidator\XmlDataValidator.CLR\obj\Release\XmlDataValidator.CLR.dll

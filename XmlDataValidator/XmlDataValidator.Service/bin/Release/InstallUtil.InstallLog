@@ -1,0 +1,45 @@
+﻿
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки d:\Solutions\fgis_usmt\XmlDataValidator\XmlDataValidator.Service\bin\Release\XmlDataValidator.Service.exe.
+Данный файл находится в d:\Solutions\fgis_usmt\XmlDataValidator\XmlDataValidator.Service\bin\Release\XmlDataValidator.Service.InstallLog.
+
+На этапе установки возникло исключение.
+System.ComponentModel.Win32Exception: Указанная служба уже существует
+
+Начинается этап отката процедуры установки.
+См. файл журнала выполнения операция для сборки d:\Solutions\fgis_usmt\XmlDataValidator\XmlDataValidator.Service\bin\Release\XmlDataValidator.Service.exe.
+Данный файл находится в d:\Solutions\fgis_usmt\XmlDataValidator\XmlDataValidator.Service\bin\Release\XmlDataValidator.Service.InstallLog.
+
+Этап отката выполнен успешно.
+
+Групповая операция установки выполнена.
+
+
+Начинается установка.
+См. файл журнала выполнения операция для сборки d:\Solutions\fgis_usmt\XmlDataValidator\XmlDataValidator.Service\bin\Release\XmlDataValidator.Service.exe.
+Данный файл находится в d:\Solutions\fgis_usmt\XmlDataValidator\XmlDataValidator.Service\bin\Release\XmlDataValidator.Service.InstallLog.
+
+Удаление из системы выполнено.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки d:\Solutions\fgis_usmt\XmlDataValidator\XmlDataValidator.Service\bin\Release\XmlDataValidator.Service.exe.
+Данный файл находится в d:\Solutions\fgis_usmt\XmlDataValidator\XmlDataValidator.Service\bin\Release\XmlDataValidator.Service.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки d:\Solutions\fgis_usmt\XmlDataValidator\XmlDataValidator.Service\bin\Release\XmlDataValidator.Service.exe.
+Данный файл находится в d:\Solutions\fgis_usmt\XmlDataValidator\XmlDataValidator.Service\bin\Release\XmlDataValidator.Service.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+
+Начинается установка.
+См. файл журнала выполнения операция для сборки d:\Solutions\fgis_usmt\XmlDataValidator\XmlDataValidator.Service\bin\Release\XmlDataValidator.Service.exe.
+Данный файл находится в d:\Solutions\fgis_usmt\XmlDataValidator\XmlDataValidator.Service\bin\Release\XmlDataValidator.Service.InstallLog.
+
+Удаление из системы выполнено.

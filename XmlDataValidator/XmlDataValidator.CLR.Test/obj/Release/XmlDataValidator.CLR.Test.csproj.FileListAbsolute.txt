@@ -1,0 +1,8 @@
+D:\Solutions\fgis_usmt\XmlDataValidator\XmlDataValidator.CLR.Test\bin\Release\XmlDataValidator.CLR.Test.exe
+D:\Solutions\fgis_usmt\XmlDataValidator\XmlDataValidator.CLR.Test\bin\Release\XmlDataValidator.CLR.Test.pdb
+D:\Solutions\fgis_usmt\XmlDataValidator\XmlDataValidator.CLR.Test\bin\Release\XmlDataValidator.CLR.dll
+D:\Solutions\fgis_usmt\XmlDataValidator\XmlDataValidator.CLR.Test\obj\Release\XmlDataValidator.CLR.Test.csprojAssemblyReference.cache
+D:\Solutions\fgis_usmt\XmlDataValidator\XmlDataValidator.CLR.Test\obj\Release\XmlDataValidator.CLR.Test.csproj.CoreCompileInputs.cache
+D:\Solutions\fgis_usmt\XmlDataValidator\XmlDataValidator.CLR.Test\obj\Release\XmlDataValidator.CLR.Test.csproj.CopyComplete
+D:\Solutions\fgis_usmt\XmlDataValidator\XmlDataValidator.CLR.Test\obj\Release\XmlDataValidator.CLR.Test.exe
+D:\Solutions\fgis_usmt\XmlDataValidator\XmlDataValidator.CLR.Test\obj\Release\XmlDataValidator.CLR.Test.pdb

@@ -1,0 +1,12 @@
+D:\Solutions\fgis_usmt\XmlDataValidator\XmlDataValidator.CLR\bin\Debug\XmlDataValidator.CLR.dacpac
+D:\Solutions\fgis_usmt\XmlDataValidator\XmlDataValidator.CLR\bin\Debug\XmlDataValidator.CLR.dll
+D:\Solutions\fgis_usmt\XmlDataValidator\XmlDataValidator.CLR\bin\Debug\XmlDataValidator.CLR.pdb
+D:\Solutions\fgis_usmt\XmlDataValidator\XmlDataValidator.CLR\obj\Debug\Model.xml
+D:\Solutions\fgis_usmt\XmlDataValidator\XmlDataValidator.CLR\obj\Debug\refactor.xml
+D:\Solutions\fgis_usmt\XmlDataValidator\XmlDataValidator.CLR\obj\Debug\postdeploy.sql
+D:\Solutions\fgis_usmt\XmlDataValidator\XmlDataValidator.CLR\obj\Debug\predeploy.sql
+D:\Solutions\fgis_usmt\XmlDataValidator\XmlDataValidator.CLR\obj\Debug\XmlDataValidator.CLR.dll
+D:\Solutions\fgis_usmt\XmlDataValidator\XmlDataValidator.CLR\obj\Debug\XmlDataValidator.CLR.pdb
+d:\XmlDataValidator\XmlDataValidator.CLR\obj\Debug\XmlDataValidator.CLR.sqlprojAssemblyReference.cache
+d:\XmlDataValidator\XmlDataValidator.CLR\obj\Debug\XmlDataValidator.CLR.dll
+d:\XmlDataValidator\XmlDataValidator.CLR\obj\Debug\XmlDataValidator.CLR.pdb

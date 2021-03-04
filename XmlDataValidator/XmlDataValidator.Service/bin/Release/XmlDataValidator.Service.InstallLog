@@ -1,0 +1,43 @@
+﻿Выполняется установка сборки 'd:\Solutions\fgis_usmt\XmlDataValidator\XmlDataValidator.Service\bin\Release\XmlDataValidator.Service.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = d:\Solutions\fgis_usmt\XmlDataValidator\XmlDataValidator.Service\bin\Release\XmlDataValidator.Service.exe
+   logfile = d:\Solutions\fgis_usmt\XmlDataValidator\XmlDataValidator.Service\bin\Release\XmlDataValidator.Service.InstallLog
+Устанавливается служба XmlDataValidatorSevice...
+Создается исходный EventLog XmlDataValidatorSevice в журнале Application...
+Выполняется откат для сборки 'd:\Solutions\fgis_usmt\XmlDataValidator\XmlDataValidator.Service\bin\Release\XmlDataValidator.Service.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = d:\Solutions\fgis_usmt\XmlDataValidator\XmlDataValidator.Service\bin\Release\XmlDataValidator.Service.exe
+   logfile = d:\Solutions\fgis_usmt\XmlDataValidator\XmlDataValidator.Service\bin\Release\XmlDataValidator.Service.InstallLog
+Восстанавливается исходное состояние журнала событий для источника XmlDataValidatorSevice.
+Выполняется удаление сборки 'd:\Solutions\fgis_usmt\XmlDataValidator\XmlDataValidator.Service\bin\Release\XmlDataValidator.Service.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = d:\Solutions\fgis_usmt\XmlDataValidator\XmlDataValidator.Service\bin\Release\XmlDataValidator.Service.exe
+   logfile = d:\Solutions\fgis_usmt\XmlDataValidator\XmlDataValidator.Service\bin\Release\XmlDataValidator.Service.InstallLog
+Выполняется удаление источника EventLog XmlDataValidatorSevice.
+Выполняется удаление службы XmlDataValidatorSevice из системы...
+Служба XmlDataValidatorSevice успешно удалена из системы.
+Попытка останова службы XmlDataValidatorSevice.
+Выполняется установка сборки 'd:\Solutions\fgis_usmt\XmlDataValidator\XmlDataValidator.Service\bin\Release\XmlDataValidator.Service.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = d:\Solutions\fgis_usmt\XmlDataValidator\XmlDataValidator.Service\bin\Release\XmlDataValidator.Service.exe
+   logfile = d:\Solutions\fgis_usmt\XmlDataValidator\XmlDataValidator.Service\bin\Release\XmlDataValidator.Service.InstallLog
+Устанавливается служба XmlDataValidatorSevice...
+Служба XmlDataValidatorSevice успешно установлена.
+Создается исходный EventLog XmlDataValidatorSevice в журнале Application...
+Выполняется фиксация сборки 'd:\Solutions\fgis_usmt\XmlDataValidator\XmlDataValidator.Service\bin\Release\XmlDataValidator.Service.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = d:\Solutions\fgis_usmt\XmlDataValidator\XmlDataValidator.Service\bin\Release\XmlDataValidator.Service.exe
+   logfile = d:\Solutions\fgis_usmt\XmlDataValidator\XmlDataValidator.Service\bin\Release\XmlDataValidator.Service.InstallLog
+Выполняется удаление сборки 'd:\Solutions\fgis_usmt\XmlDataValidator\XmlDataValidator.Service\bin\Release\XmlDataValidator.Service.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = d:\Solutions\fgis_usmt\XmlDataValidator\XmlDataValidator.Service\bin\Release\XmlDataValidator.Service.exe
+   logfile = d:\Solutions\fgis_usmt\XmlDataValidator\XmlDataValidator.Service\bin\Release\XmlDataValidator.Service.InstallLog
+Выполняется удаление источника EventLog XmlDataValidatorSevice.
+Выполняется удаление службы XmlDataValidatorSevice из системы...
+Служба XmlDataValidatorSevice успешно удалена из системы.

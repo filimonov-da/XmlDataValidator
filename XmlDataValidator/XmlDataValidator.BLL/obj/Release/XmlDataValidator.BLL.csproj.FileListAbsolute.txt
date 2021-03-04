@@ -1,0 +1,12 @@
+D:\Solutions\fgis_usmt\XmlDataValidator\XmlDataValidator.BLL\bin\Release\XmlDataValidator.BLL.dll
+D:\Solutions\fgis_usmt\XmlDataValidator\XmlDataValidator.BLL\bin\Release\Autofac.dll
+D:\Solutions\fgis_usmt\XmlDataValidator\XmlDataValidator.BLL\bin\Release\AutoMapper.dll
+D:\Solutions\fgis_usmt\XmlDataValidator\XmlDataValidator.BLL\bin\Release\NLog.dll
+D:\Solutions\fgis_usmt\XmlDataValidator\XmlDataValidator.BLL\bin\Release\Autofac.pdb
+D:\Solutions\fgis_usmt\XmlDataValidator\XmlDataValidator.BLL\bin\Release\Autofac.xml
+D:\Solutions\fgis_usmt\XmlDataValidator\XmlDataValidator.BLL\bin\Release\AutoMapper.pdb
+D:\Solutions\fgis_usmt\XmlDataValidator\XmlDataValidator.BLL\bin\Release\AutoMapper.xml
+D:\Solutions\fgis_usmt\XmlDataValidator\XmlDataValidator.BLL\bin\Release\NLog.xml
+D:\Solutions\fgis_usmt\XmlDataValidator\XmlDataValidator.BLL\obj\Release\XmlDataValidator.BLL.csproj.CoreCompileInputs.cache
+D:\Solutions\fgis_usmt\XmlDataValidator\XmlDataValidator.BLL\obj\Release\XmlDataValidator.BLL.csproj.CopyComplete
+D:\Solutions\fgis_usmt\XmlDataValidator\XmlDataValidator.BLL\obj\Release\XmlDataValidator.BLL.dll
